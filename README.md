@@ -1,2 +1,3 @@
 # github-training-sample
-GitHub練習用のリポジトリです
+
+GitHub練習用のリポジトリです。
